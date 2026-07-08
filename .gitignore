@@ -57,3 +57,6 @@ build-iPhoneSimulator/
 /.yardoc
 # rspec failure tracking
 .rspec_status
+
+# Ignore Gemfile.lock file.
+/Gemfile.lock
